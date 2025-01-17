@@ -12,6 +12,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/canadian-club-whiskey-company/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/canadian-club-whiskey-company-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/canadian-club-whiskey-company-3/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/ux-database/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
